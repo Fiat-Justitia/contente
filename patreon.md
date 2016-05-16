@@ -6,7 +6,7 @@ title: patreon
 # ContenteTV
 
 
-O criador e apresentador do canal do youtube [ContenteTV](https://www.youtube.com/user/ContenteGamer) é bastante polemico quando critica o Brasil, o youtube, e outros canais. Agora, vamos ver se ele esta insento de criticas.
+O criador e apresentador do canal do youtube [ContenteTV](https://www.youtube.com/user/ContenteGamer) é bastante polemico quando critica o Brasil, o youtube, e outros canais. Agora, vamos ver se ele esta isento de criticas.
 
 # Patreon
 
