@@ -1,6 +1,6 @@
-name: Solar Theme
-baseurl: /solar-theme-jekyll
-description: A stylish blog using the Solarized color palette
+name: Contente
+baseurl: /contente
+description: Contente schemes
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
