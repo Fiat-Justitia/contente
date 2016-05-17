@@ -134,6 +134,9 @@ Realização de apenas 1 (um) sorteio a cada 12 (doze) meses.
 
 Com certeza não é um sorteio Filantrópico segunda a definição. Sem mais à acrescentar.
 
+-----------------------
+
+
 ### Visão do site Patreon
 
 #### [Patreon Terms Of Use](https://www.patreon.com/legal)
