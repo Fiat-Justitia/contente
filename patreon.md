@@ -6,11 +6,11 @@ title: patreon
 # ContenteTV
 
 
-O criador e apresentador do canal do youtube [ContenteTV](https://www.youtube.com/user/ContenteGamer) é bastante polemico quando critica o Brasil, o youtube, e outros canais. Agora, vamos ver se ele esta isento de criticas.
+O criador e apresentador do canal do youtube [ContenteTV](https://www.youtube.com/user/ContenteGamer) Nelson Neto promove atividades ilicitas, e as floreia e disfarça como servicos de entretenimento e patronagem.
 
 # Patreon
 
-Contente criou um [Patreon](https://www.patreon.com/Contente?ty=h) há um tempo atrás com o objetivo de financiar sua criação de conteúdo.
+Contente (Nelson Neto) criou um [Patreon](https://www.patreon.com/Contente?ty=h) (programa estrangeiro de patronagem de criadores de conteudo) há um tempo atrás com o objetivo de financiar sua criação de conteúdo.
 
 O site Patreon oferece uma ferramenta para criar metas e oferecer recompensas no site.
 
