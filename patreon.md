@@ -16,17 +16,21 @@ O site Patreon oferece uma ferramenta para criar metas e oferecer recompensas no
 
 Mas como Contente esta usando essa ferramente? Ele estabelece 20 metas, indo de USD 200 até USD 15000. Nada de errado até então, certo? Errado, vamos ver algumas recompensas que ele oferece:
 
-- **$200** Sorteio realizado 30 dias após a meta ser batida ![d0](/contente/images/1.PNG)
+- **$200** Sorteio realizado 30 dias após a meta ser batida 
+![d0](/contente/images/1.PNG)
 
-- **$2,800** SORTEIOS DE 3 PRÊMIOS DE R$150 EXCLUSIVOS PARA OS PATRÕES!! ![dd](/contente/images/2.PNG)
+- **$2,800** SORTEIOS DE 3 PRÊMIOS DE R$150 EXCLUSIVOS PARA OS PATRÕES!! 
+![dd](/contente/images/2.PNG)
 
 - **$3,500** Sorteios de 5 prêmios de R$ 150 p/Mês
 ● Sorteio Realizado após 30 dias da Meta Batida
-● 3 Sorteios São para Todos Patrões e 2 Sorteios serão EXCLUSIVOS para Patrões Acima da Cota de 10$ ![ddd](/contente/images/3.PNG)
+● 3 Sorteios São para Todos Patrões e 2 Sorteios serão EXCLUSIVOS para Patrões Acima da Cota de 10$ 
+![ddd](/contente/images/3.PNG)
 
 - **$5,100** Sorteio de 10 prêmios de R$150 p/ Mês
 ● Sorteios Realizados após 30 dias da Meta Batida
-● 5 Sorteios São Para Todos Patrões e 5 Sorteios serão EXCLUSIVOS para Patrões Acima da Cota de 10$ ![dddd](/contente/images/4.PNG)
+● 5 Sorteios São Para Todos Patrões e 5 Sorteios serão EXCLUSIVOS para Patrões Acima da Cota de 10$ 
+![dddd](/contente/images/4.PNG)
 
 -------------------------------
 [Video aonde ele conta como funciona](https://www.youtube.com/watch?v=3106K6toWRs)
