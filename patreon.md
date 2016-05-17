@@ -42,6 +42,8 @@ Ele esta oferecendo sorteio de dinheiro para quem contribui financeiramente com 
 
 Vejamos os dois casos:
 
+-------------------------------
+
 ### Loteria
 
 #### Definição formal
@@ -70,6 +72,8 @@ Art. 4º Somente a União e os Estados poderão explorar ou conceder serviço de
 #### Conclusão
 
 Caso essa ação criada pelo grupo da ContenteTV se encaixe como loteria clandestina, as consequências são bastante graves, e a lei prevê punições árduas.
+
+---------------------------------------------------
 
 ### Promoção/Sorteio
 
@@ -115,9 +119,11 @@ Sim, como regra geral. A Lei nº. 5.768/71 estabelece apenas duas exceções: I 
 
 § 3º É proibida a distribuição ou conversão dos prêmios em dinheiro.
 
-### Conclusão
+#### Conclusão
 
 O sorteio da ContenteTV prevê prêmios em dinheiro, que visa lucro, é fonte de renda dos criadores, ha duas "classes de sorteio" criado desigualdade dos concorrentes. Tudo isso esta fora da lei.
+
+-----------------------------------------
 
 ### Sorteio Filantrópico
 
