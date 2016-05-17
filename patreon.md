@@ -28,7 +28,11 @@ Mas como Contente esta usando essa ferramente? Ele estabelece 20 metas, indo de 
 ● Sorteios Realizados após 30 dias da Meta Batida
 ● 5 Sorteios São Para Todos Patrões e 5 Sorteios serão EXCLUSIVOS para Patrões Acima da Cota de 10$ ![dddd](/contente/images/4.PNG)
 
-[Video aonde ele assume](https://youtu.be/89lj2n6nFQA?t=4m50s)
+-------------------------------
+[Video aonde ele conta como funciona](https://www.youtube.com/watch?v=3106K6toWRs)
+
+
+[Outro video](https://youtu.be/89lj2n6nFQA?t=4m50s)
 
 Ele esta oferecendo sorteio de dinheiro para quem contribui financeiramente com o programa dele. Podemos encarar isso de diversas formas: **sorteio de prêmios** ou **loteria**.
 
